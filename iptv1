@@ -21,10 +21,6 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13087
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13088
 #EXTINF:-1,USA| Comedy Central
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11191
-#EXTINF:-1,USA : CARTOON NETWORK HD
-http://teslaiptv.com:8080/hannaxhanna/es576457/68076
-#EXTINF:-1,USA| CRIME AND INVESTIGATION
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13089
 #EXTINF:-1,USA| Discovery Channel
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11188
 #EXTINF:-1,USA| Discovery Science HD
@@ -59,12 +55,6 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13097
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11158
 #EXTINF:-1,USA| TBS
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11157
-#EXTINF:-1,USA| TNT
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11155
-#EXTINF:-1,USA| TNT HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13098
-#EXTINF:-1,USA| USA Network
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13099
 #EXTINF:-1,USA| FOX News. UHD.
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/22169
 #EXTINF:-1,USA| Fox News HD.
@@ -77,8 +67,6 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13100
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11192
 #EXTINF:-1,USA| Bravo HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13101
-#EXTINF:-1,USA| Cooking Channel
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/42121
 #EXTINF:-1,USA| Destination America HD
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11189
 #EXTINF:-1,USA| DESTINATION AMERICA
@@ -555,8 +543,8 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11167
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13147
 #EXTINF:-1,USA| Smithsonian Channel
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11163
-#EXTINF:-1,USA| Spike HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/11162
+#EXTINF:-1,USA : SPIKE HD
+http://teslaiptv.com:8080/hannaxhanna/es576457/67870
 #EXTINF:-1,USA| ANTENNA TV
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14613
 #EXTINF:-1,USA| COZI TV
@@ -1619,3 +1607,14 @@ http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13645
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10536
 #EXTINF:-1,||UK|| EURONEWS
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/13638
+#EXTINF:-1,TNT HD US
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/549
+#EXTINF:-1,Cartoon Network US
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/523
+#EXTINF:-1,USA Network HD US
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/547
+#EXTINF:-1,Cooking Channel HD US
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/83550
+#EXTINF:-1,Bounce TV US
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/82816
+
